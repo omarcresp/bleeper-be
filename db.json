@@ -1,0 +1,239 @@
+{
+  "products": [
+    {
+      "images": [
+        {
+          "image_type": "product",
+          "_id": "60e15ba42b8b9800084a6ac0",
+          "url": "https://bleeper-images-dev.s3.amazonaws.com/products/portraits/60e15ba32b8b9800084a6abf/16195046149a460228bf3874f0f041de32ed6b3908_thumbnail_9000x.jpg",
+          "product": "60e15ba32b8b9800084a6abf",
+          "key": "products/portraits/60e15ba32b8b9800084a6abf/16195046149a460228bf3874f0f041de32ed6b3908_thumbnail_9000x.jpg",
+          "created_at": "2021-07-04T06:56:36.606Z",
+          "__v": 0
+        },
+        {
+          "image_type": "product",
+          "_id": "60e15baf2b8b9800084a6ac1",
+          "url": "https://bleeper-images-dev.s3.amazonaws.com/products/portraits/60e15ba32b8b9800084a6abf/16195046252af9f25876f37d8cab40652d1657160b_thumbnail_9000x.jpg",
+          "product": "60e15ba32b8b9800084a6abf",
+          "key": "products/portraits/60e15ba32b8b9800084a6abf/16195046252af9f25876f37d8cab40652d1657160b_thumbnail_9000x.jpg",
+          "created_at": "2021-07-04T06:56:47.916Z",
+          "__v": 0
+        },
+        {
+          "image_type": "product",
+          "_id": "60e15bb0d02b340008385af9",
+          "url": "https://bleeper-images-dev.s3.amazonaws.com/products/portraits/60e15ba32b8b9800084a6abf/1619504619a0f8a1f9ad31890c69d26e2b0944a6fa_thumbnail_9000x.jpg",
+          "product": "60e15ba32b8b9800084a6abf",
+          "key": "products/portraits/60e15ba32b8b9800084a6abf/1619504619a0f8a1f9ad31890c69d26e2b0944a6fa_thumbnail_9000x.jpg",
+          "created_at": "2021-07-04T06:56:48.055Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60e15ba32b8b9800084a6abf",
+      "name": "Vestido Nudo floral de margarita Bohemio",
+      "sku": "2342",
+      "price": 45000,
+      "discount": 15,
+      "final_price": 38250,
+      "stock": 0,
+      "store_id": "60e10e7b54b4550008932ba1",
+      "createdAt": "2021-07-04T06:56:35.691Z",
+      "updatedAt": "2021-07-16T15:53:25.620Z",
+      "__v": 0
+    },
+    {
+      "images": [
+        {
+          "image_type": "product",
+          "_id": "60e15c9dd02b340008385afb",
+          "url": "https://bleeper-images-dev.s3.amazonaws.com/products/portraits/60e15c9dd02b340008385afa/1623482139754d4693480f8b2d50d4e656d56ced73_thumbnail_9900x.jpg",
+          "product": "60e15c9dd02b340008385afa",
+          "key": "products/portraits/60e15c9dd02b340008385afa/1623482139754d4693480f8b2d50d4e656d56ced73_thumbnail_9900x.jpg",
+          "created_at": "2021-07-04T07:00:45.890Z",
+          "__v": 0
+        },
+        {
+          "image_type": "product",
+          "_id": "60e15caa2b8b9800084a6ac2",
+          "url": "https://bleeper-images-dev.s3.amazonaws.com/products/portraits/60e15c9dd02b340008385afa/1623482143bb8a0721278af3657bad35dbf6107af3_thumbnail_9000x.jpg",
+          "product": "60e15c9dd02b340008385afa",
+          "key": "products/portraits/60e15c9dd02b340008385afa/1623482143bb8a0721278af3657bad35dbf6107af3_thumbnail_9000x.jpg",
+          "created_at": "2021-07-04T07:00:58.955Z",
+          "__v": 0
+        },
+        {
+          "image_type": "product",
+          "_id": "60e15cabd02b340008385afc",
+          "url": "https://bleeper-images-dev.s3.amazonaws.com/products/portraits/60e15c9dd02b340008385afa/16234821412c411e6a62b42d3bdeab72807e30681d_thumbnail_9000x.jpg",
+          "product": "60e15c9dd02b340008385afa",
+          "key": "products/portraits/60e15c9dd02b340008385afa/16234821412c411e6a62b42d3bdeab72807e30681d_thumbnail_9000x.jpg",
+          "created_at": "2021-07-04T07:00:59.004Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60e15c9dd02b340008385afa",
+      "name": "Pantalones cargo con cremallera y bolsillo con solapa lateral",
+      "sku": "231",
+      "price": 50000,
+      "discount": 0,
+      "final_price": 50000,
+      "stock": 45,
+      "store_id": "60e10e7b54b4550008932ba1",
+      "createdAt": "2021-07-04T07:00:45.114Z",
+      "updatedAt": "2021-07-09T20:42:32.084Z",
+      "__v": 0
+    },
+    {
+      "images": [
+        {
+          "image_type": "product",
+          "_id": "60e15d6ad02b340008385afe",
+          "url": "https://bleeper-images-dev.s3.amazonaws.com/products/portraits/60e15d69d02b340008385afd/Screenshot%202021-07-04%20020330.jpg",
+          "product": "60e15d69d02b340008385afd",
+          "key": "products/portraits/60e15d69d02b340008385afd/Screenshot 2021-07-04 020330.jpg",
+          "created_at": "2021-07-04T07:04:10.406Z",
+          "__v": 0
+        },
+        {
+          "image_type": "product",
+          "_id": "60e15d71d02b340008385aff",
+          "url": "https://bleeper-images-dev.s3.amazonaws.com/products/portraits/60e15d69d02b340008385afd/16208064483b6e3603e59b2ff8e4a03a94786882cd_thumbnail_9000x.jpg",
+          "product": "60e15d69d02b340008385afd",
+          "key": "products/portraits/60e15d69d02b340008385afd/16208064483b6e3603e59b2ff8e4a03a94786882cd_thumbnail_9000x.jpg",
+          "created_at": "2021-07-04T07:04:17.739Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60e15d69d02b340008385afd",
+      "name": "Vaqueros Mom rotos",
+      "sku": "234",
+      "price": 48500,
+      "discount": 0,
+      "final_price": 48500,
+      "stock": 22,
+      "store_id": "60e10e7b54b4550008932ba1",
+      "createdAt": "2021-07-04T07:04:09.922Z",
+      "updatedAt": "2021-07-16T15:53:37.823Z",
+      "__v": 0
+    },
+    {
+      "images": [
+        {
+          "image_type": "product",
+          "_id": "60e15df3d02b340008385b01",
+          "url": "https://bleeper-images-dev.s3.amazonaws.com/products/portraits/60e15df2d02b340008385b00/16151681755f6b6c2f66a6ebd1af4ca0b42e2d80d4_thumbnail_9030x.jpg",
+          "product": "60e15df2d02b340008385b00",
+          "key": "products/portraits/60e15df2d02b340008385b00/16151681755f6b6c2f66a6ebd1af4ca0b42e2d80d4_thumbnail_9030x.jpg",
+          "created_at": "2021-07-04T07:06:27.085Z",
+          "__v": 0
+        },
+        {
+          "image_type": "product",
+          "_id": "60e15dfbd02b340008385b02",
+          "url": "https://bleeper-images-dev.s3.amazonaws.com/products/portraits/60e15df2d02b340008385b00/161516817895b9c7c2607fe0310b51a1ca07dce4ea_thumbnail_9040x.jpg",
+          "product": "60e15df2d02b340008385b00",
+          "key": "products/portraits/60e15df2d02b340008385b00/161516817895b9c7c2607fe0310b51a1ca07dce4ea_thumbnail_9040x.jpg",
+          "created_at": "2021-07-04T07:06:35.105Z",
+          "__v": 0
+        },
+        {
+          "image_type": "product",
+          "_id": "60e15dfbd02b340008385b03",
+          "url": "https://bleeper-images-dev.s3.amazonaws.com/products/portraits/60e15df2d02b340008385b00/ef.jpg",
+          "product": "60e15df2d02b340008385b00",
+          "key": "products/portraits/60e15df2d02b340008385b00/ef.jpg",
+          "created_at": "2021-07-04T07:06:35.424Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60e15df2d02b340008385b00",
+      "name": "Camisa con estampado de figura de cuello V",
+      "sku": "235",
+      "price": 24000,
+      "discount": 18,
+      "final_price": 19680,
+      "stock": 18,
+      "stockOffer": true,
+      "store_id": "60e10e7b54b4550008932ba1",
+      "createdAt": "2021-07-04T07:06:26.285Z",
+      "updatedAt": "2021-07-04T07:06:35.428Z",
+      "__v": 0
+    },
+    {
+      "images": [
+        {
+          "image_type": "product",
+          "_id": "60e15e75d02b340008385b05",
+          "url": "https://bleeper-images-dev.s3.amazonaws.com/products/portraits/60e15e74d02b340008385b04/16165643064ab84e11f2c1942a8d120b81e1505528_thumbnail_9dfgdx00x.jpg",
+          "product": "60e15e74d02b340008385b04",
+          "key": "products/portraits/60e15e74d02b340008385b04/16165643064ab84e11f2c1942a8d120b81e1505528_thumbnail_9dfgdx00x.jpg",
+          "created_at": "2021-07-04T07:08:37.626Z",
+          "__v": 0
+        },
+        {
+          "image_type": "product",
+          "_id": "60e15e7cd02b340008385b06",
+          "url": "https://bleeper-images-dev.s3.amazonaws.com/products/portraits/60e15e74d02b340008385b04/ffgd.jpg",
+          "product": "60e15e74d02b340008385b04",
+          "key": "products/portraits/60e15e74d02b340008385b04/ffgd.jpg",
+          "created_at": "2021-07-04T07:08:44.683Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60e15e74d02b340008385b04",
+      "name": "Camiseta con estampado de slogan de Tie Dye",
+      "sku": "244",
+      "price": 42600,
+      "discount": 25,
+      "final_price": 31950,
+      "stock": 15,
+      "store_id": "60e10e7b54b4550008932ba1",
+      "createdAt": "2021-07-04T07:08:36.744Z",
+      "updatedAt": "2021-07-04T07:08:44.687Z",
+      "__v": 0
+    },
+    {
+      "images": [
+        {
+          "image_type": "product",
+          "_id": "60e15f07d02b340008385b08",
+          "url": "https://bleeper-images-dev.s3.amazonaws.com/products/portraits/60e15f07d02b340008385b07/16136146028d7073909f978d46c359d5787d61d46f_thumbnail_9050x.jpg",
+          "product": "60e15f07d02b340008385b07",
+          "key": "products/portraits/60e15f07d02b340008385b07/16136146028d7073909f978d46c359d5787d61d46f_thumbnail_9050x.jpg",
+          "created_at": "2021-07-04T07:11:03.865Z",
+          "__v": 0
+        },
+        {
+          "image_type": "product",
+          "_id": "60e15f10d02b340008385b09",
+          "url": "https://bleeper-images-dev.s3.amazonaws.com/products/portraits/60e15f07d02b340008385b07/rtytry.jpg",
+          "product": "60e15f07d02b340008385b07",
+          "key": "products/portraits/60e15f07d02b340008385b07/rtytry.jpg",
+          "created_at": "2021-07-04T07:11:12.209Z",
+          "__v": 0
+        },
+        {
+          "image_type": "product",
+          "_id": "60e15f10d02b340008385b0a",
+          "url": "https://bleeper-images-dev.s3.amazonaws.com/products/portraits/60e15f07d02b340008385b07/1613614611512b881f6fd8a0f258fef5ade1827049_thumbnail_900tx.jpg",
+          "product": "60e15f07d02b340008385b07",
+          "key": "products/portraits/60e15f07d02b340008385b07/1613614611512b881f6fd8a0f258fef5ade1827049_thumbnail_900tx.jpg",
+          "created_at": "2021-07-04T07:11:12.406Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60e15f07d02b340008385b07",
+      "name": "Bañador Bikini tanga triángulo floral",
+      "sku": "42234",
+      "price": 36000,
+      "discount": 0,
+      "final_price": 36000,
+      "stock": 15,
+      "store_id": "60e10e7b54b4550008932ba1",
+      "createdAt": "2021-07-04T07:11:03.079Z",
+      "updatedAt": "2021-07-12T20:09:56.087Z",
+      "__v": 0
+    }
+  ]
+}

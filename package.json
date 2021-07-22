@@ -1,0 +1,14 @@
+{
+  "name": "bleeper-be",
+  "version": "1.0.0",
+  "description": "json server for bleeper-be",
+  "main": "db.json",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Omar Crespo",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

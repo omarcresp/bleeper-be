@@ -1,6 +1,6 @@
-# Bleeper BE for technical interviews
+# Bleeper Backend for technical interviews
 
-Use this repo as fake BE for the technical interview
+Use this repo as fake server API for the technical interview
 
 ## Mount dev-server
 
